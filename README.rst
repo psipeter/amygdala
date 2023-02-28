@@ -29,5 +29,7 @@ Run the jupyter notebook
 =======
 
   jupyter notebook model1.py
+  
   jupyter notebook model2.py
+  
   jupyter notebook experiments.py
