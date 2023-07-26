@@ -4,25 +4,19 @@ Model and experimental details can be found within the Jupyter notebooks.
 
 For questions or comments, please submit an issue, or email psipeter@gmail.com
 
+
 Clone the repository
 =======
   
   git clone https://github.com/psipeter/amygdala.git
 
   cd amygdala
+
     
-Install virtual environment
-=======
-
-  pip3 install pipenv
-
-  pipenv shell
-
-
-Install packages
+Install dependencies
 =======
     
-  pipenv install numpy scipy matplotlib seaborn pandas nengo jupyter
+  pip install numpy scipy matplotlib seaborn pandas nengo jupyter
 
 
 Run the jupyter notebook
